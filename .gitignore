@@ -1,0 +1,7 @@
+# gitignore file for the nba data extraction
+
+# Ignore chromedriver
+chromedriver
+
+# Ignore .csv files
+*.csv
