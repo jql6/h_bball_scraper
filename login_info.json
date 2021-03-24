@@ -1,0 +1,10 @@
+{
+    "hashtag_basketball": {
+        "email": "example@mail.com",
+        "password": "example password"
+    },
+    "yahoo_sports": {
+        "email": "example@mail.com",
+        "password": "example password"
+    }
+}
